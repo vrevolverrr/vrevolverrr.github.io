@@ -1,29 +1,26 @@
 {
   "files": {
-    "main.css": "/static/css/main.916b4735.chunk.css",
-    "main.js": "/static/js/main.89ac5e64.chunk.js",
-    "main.js.map": "/static/js/main.89ac5e64.chunk.js.map",
+    "main.css": "/static/css/main.7bc45967.chunk.css",
+    "main.js": "/static/js/main.8f6a64ca.chunk.js",
+    "main.js.map": "/static/js/main.8f6a64ca.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.87c94d52.js",
     "runtime-main.js.map": "/static/js/runtime-main.87c94d52.js.map",
-    "static/js/2.a9a76b9c.chunk.js": "/static/js/2.a9a76b9c.chunk.js",
-    "static/js/2.a9a76b9c.chunk.js.map": "/static/js/2.a9a76b9c.chunk.js.map",
+    "static/js/2.f1122124.chunk.js": "/static/js/2.f1122124.chunk.js",
+    "static/js/2.f1122124.chunk.js.map": "/static/js/2.f1122124.chunk.js.map",
     "static/js/3.05a64c0c.chunk.js": "/static/js/3.05a64c0c.chunk.js",
     "static/js/3.05a64c0c.chunk.js.map": "/static/js/3.05a64c0c.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.916b4735.chunk.css.map": "/static/css/main.916b4735.chunk.css.map",
-    "static/js/2.a9a76b9c.chunk.js.LICENSE.txt": "/static/js/2.a9a76b9c.chunk.js.LICENSE.txt",
-    "static/media/clouds_1.35380396.svg": "/static/media/clouds_1.35380396.svg",
-    "static/media/clouds_2.83b34ed6.svg": "/static/media/clouds_2.83b34ed6.svg",
-    "static/media/construction_sign.20f367b3.svg": "/static/media/construction_sign.20f367b3.svg",
-    "static/media/earth.f3feae4f.svg": "/static/media/earth.f3feae4f.svg",
-    "static/media/sparkles.7343b1c2.svg": "/static/media/sparkles.7343b1c2.svg",
-    "static/media/stars.73239b16.svg": "/static/media/stars.73239b16.svg",
-    "static/media/title.c816a8c5.svg": "/static/media/title.c816a8c5.svg"
+    "static/css/main.7bc45967.chunk.css.map": "/static/css/main.7bc45967.chunk.css.map",
+    "static/js/2.f1122124.chunk.js.LICENSE.txt": "/static/js/2.f1122124.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/static/media/Moon2.0-Regular.78446ac3.otf",
+    "static/media/earth.2289bc38.svg": "/static/media/earth.2289bc38.svg",
+    "static/media/sign.20f367b3.svg": "/static/media/sign.20f367b3.svg",
+    "static/media/title.3257f367.svg": "/static/media/title.3257f367.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.87c94d52.js",
-    "static/js/2.a9a76b9c.chunk.js",
-    "static/css/main.916b4735.chunk.css",
-    "static/js/main.89ac5e64.chunk.js"
+    "static/js/2.f1122124.chunk.js",
+    "static/css/main.7bc45967.chunk.css",
+    "static/js/main.8f6a64ca.chunk.js"
   ]
 }
