@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/static/css/main.bf24aba8.chunk.css",
-    "main.js": "/static/js/main.4d4cd0d3.chunk.js",
-    "main.js.map": "/static/js/main.4d4cd0d3.chunk.js.map",
+    "main.css": "/static/css/main.50d59498.chunk.css",
+    "main.js": "/static/js/main.bd5b9dff.chunk.js",
+    "main.js.map": "/static/js/main.bd5b9dff.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.e14e7b20.js",
     "runtime-main.js.map": "/static/js/runtime-main.e14e7b20.js.map",
     "static/js/2.43303711.chunk.js": "/static/js/2.43303711.chunk.js",
@@ -10,10 +10,13 @@
     "static/js/3.3465f8ce.chunk.js": "/static/js/3.3465f8ce.chunk.js",
     "static/js/3.3465f8ce.chunk.js.map": "/static/js/3.3465f8ce.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.bf24aba8.chunk.css.map": "/static/css/main.bf24aba8.chunk.css.map",
+    "static/css/main.50d59498.chunk.css.map": "/static/css/main.50d59498.chunk.css.map",
     "static/js/2.43303711.chunk.js.LICENSE.txt": "/static/js/2.43303711.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/MazzardH-SemiBold.ae8bcb42.ttf",
     "static/media/backpack.86cc049c.svg": "/static/media/backpack.86cc049c.svg",
+    "static/media/brain.14bb5b03.svg": "/static/media/brain.14bb5b03.svg",
+    "static/media/bulb.0b455901.svg": "/static/media/bulb.0b455901.svg",
+    "static/media/net.4d8a8dff.svg": "/static/media/net.4d8a8dff.svg",
     "static/media/phone.7c201e14.svg": "/static/media/phone.7c201e14.svg",
     "static/media/profile.4f6d0df6.jpg": "/static/media/profile.4f6d0df6.jpg",
     "static/media/sign.20f367b3.svg": "/static/media/sign.20f367b3.svg",
@@ -22,7 +25,7 @@
   "entrypoints": [
     "static/js/runtime-main.e14e7b20.js",
     "static/js/2.43303711.chunk.js",
-    "static/css/main.bf24aba8.chunk.css",
-    "static/js/main.4d4cd0d3.chunk.js"
+    "static/css/main.50d59498.chunk.css",
+    "static/js/main.bd5b9dff.chunk.js"
   ]
 }
