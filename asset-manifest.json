@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/static/css/main.9ab63fda.chunk.css",
+    "main.css": "/static/css/main.eac5631e.chunk.css",
     "main.js": "/static/js/main.93cf991c.chunk.js",
     "main.js.map": "/static/js/main.93cf991c.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.06b5035f.js",
@@ -8,7 +8,7 @@
     "static/js/2.20b9deff.chunk.js": "/static/js/2.20b9deff.chunk.js",
     "static/js/2.20b9deff.chunk.js.map": "/static/js/2.20b9deff.chunk.js.map",
     "index.html": "/index.html",
-    "static/css/main.9ab63fda.chunk.css.map": "/static/css/main.9ab63fda.chunk.css.map",
+    "static/css/main.eac5631e.chunk.css.map": "/static/css/main.eac5631e.chunk.css.map",
     "static/js/2.20b9deff.chunk.js.LICENSE.txt": "/static/js/2.20b9deff.chunk.js.LICENSE.txt",
     "static/media/index.css": "/static/media/MazzardH-SemiBold.ae8bcb42.ttf",
     "static/media/backpack.86cc049c.svg": "/static/media/backpack.86cc049c.svg",
@@ -27,7 +27,7 @@
   "entrypoints": [
     "static/js/runtime-main.06b5035f.js",
     "static/js/2.20b9deff.chunk.js",
-    "static/css/main.9ab63fda.chunk.css",
+    "static/css/main.eac5631e.chunk.css",
     "static/js/main.93cf991c.chunk.js"
   ]
 }
